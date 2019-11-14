@@ -1,3 +1,7 @@
+## HOTELS SEARCH SITE :: https://react-hotel-search.herokuapp.com/
+You can search hotels in around the world by 'City', then it shows search results and you can click "SEE MORE" for read detail of hotel that you select. Moreover, you can click favorite button and see favorite lists.  <br/>
+Extra!! : This site has local storage to collect event after you click favorite hotel.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
